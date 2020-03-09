@@ -1,1 +1,1 @@
-# TallerGaussSeidelJacobi
+# METODOS NUMERICOS
